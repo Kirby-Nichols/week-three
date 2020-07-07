@@ -1,0 +1,14 @@
+body {background-color: blue;}
+body {color:white}    
+h1 {text-align: left;}       
+h1 {color: yellow}
+h1 {font-size: 30px;}
+a {background-color: yellow;}
+a {color: black}
+a {padding: 5px;}
+a:hover {background-color: black;}
+a:hover {color: yellow;}
+
+p {text-size-adjust: 14px;}
+img {height: 500px; width: 300px;}
+img {float: right;}

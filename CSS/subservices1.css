@@ -1,0 +1,12 @@
+body {background-color: white;}
+body {color:black}    
+h1 {text-align: right;}       
+h1 {color: black}
+h1 {font-size: 30px;}
+h1 {padding:20px;top: 20px;bottom: 5px;}
+a {background-color: darkgreen;}
+a {color: white}
+a {padding: 5px;}
+a:hover {background-color: yellow;}
+a:hover {color: green;}
+img {float: right;}

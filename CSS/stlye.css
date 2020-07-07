@@ -1,0 +1,11 @@
+body {background-color: blue}
+body {color:white}    
+h1 {text-align: center;}       
+h1 {color: black}
+h1,h3 {font-size: 30px;}
+a {background-color: yellow;}
+a {color:white}
+a {padding: 5px;}
+a :hover {background-color: black;}
+a :hover {color: yellow;}
+img {width: 100%; height: 25%;}
